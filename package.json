@@ -2,7 +2,7 @@
   "name": "login-app",
   "version": "0.1.0",
   "main": "server/server.js",
-  "proxy": "http://localhost:3005",
+  "proxy": "http://localhost:1337",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
